@@ -1,6 +1,6 @@
 <script>
 	// Imports - Componets
-	import Title from './Title.svelte';
+	import Title from '../app-wide/Title.svelte';
 
 	// Props
 	export let name;

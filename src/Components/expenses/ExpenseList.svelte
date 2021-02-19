@@ -1,5 +1,5 @@
 <script>
-	import Title from './Title.svelte';
+	import Title from '../app-wide/Title.svelte';
 	import Expense from './SingleExpense.svelte';
 	export let expenses = [];
 </script>

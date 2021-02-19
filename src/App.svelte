@@ -3,11 +3,11 @@
 	import { setContext, onMount, afterUpdate } from 'svelte';
 
 	// Imports - Components
-	import ExpenseForm from './ExpenseForm.svelte';
-	import Navbar from './Navbar.svelte';
-	import ExpenseList from './ExpenseList.svelte';
-	import Totals from './Totals.svelte';
-	import Modal from './Modal.svelte';
+	import ExpenseForm from './Components/expenses/ExpenseForm.svelte';
+	import Navbar from './Components/app-wide/Navbar.svelte';
+	import ExpenseList from './Components/expenses/ExpenseList.svelte';
+	import Totals from './Components/app-wide/Totals.svelte';
+	import Modal from './Components/app-wide/Modal.svelte';
 
 	//Variables
 	let expenses = [];
