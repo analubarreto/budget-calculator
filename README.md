@@ -13,6 +13,7 @@ Ps:. I didn't make the design, so it's not pretty (not by my standards at least)
 - How properly use Svelte's lifecycle methods
 - How to use ES6 patterns such as spread operators
 - The true difference between map, filter and reduce
+- How to properly use Svelte's {#await}
 
 ### How to run
 
