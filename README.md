@@ -13,3 +13,32 @@ Ps:. I didn't make the design, so it's not pretty (not by my standards at least)
 - How properly use Svelte's lifecycle methods
 - How to use ES6 patterns such as spread operators
 - The true difference between map, filter and reduce
+
+### How to run
+
+1. Clone repo
+
+```
+git clone git@github.com:analubarreto/budget-calculator.git
+```
+
+or, without an ssh-key
+
+```
+git clone https://github.com/analubarreto/budget-calculator.git
+```
+
+2. Cd into folder
+3. Install dependencies
+
+```
+npm i
+```
+
+4. Run project
+
+```
+npm run dev
+```
+
+5. Open browser in locahost:5000/
