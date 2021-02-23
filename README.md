@@ -1,6 +1,6 @@
 ## Budget Calculator
 
-This is an app made with (Svelte Tutorial and Projects Course)[https://www.udemy.com/course/svelte-tutorial-and-projects-course/] by John Smilga.
+This is an app made with [Svelte Tutorial and Projects Course](https://www.udemy.com/course/svelte-tutorial-and-projects-course/) by John Smilga.
 
 Why am I doing another Svelte Course? To get the itty details about the framework I seem to have missed in the first course without having too much trouble.
 
