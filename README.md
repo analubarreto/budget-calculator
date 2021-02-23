@@ -9,7 +9,7 @@ Ps:. I didn't make the design, so it's not pretty (not by my standards at least)
 ### What I learned with this project:
 
 - How to use local storage
-- When not to use local storage, from this (link)[https://snyk.io/blog/is-localstorage-safe-to-use/?fbclid=IwAR150WFR4CeUzxOzW51sKXs813670rpwPG2pCjxvtRCxemC-8IHhjmRIFNY]
+- When not to use local storage, from this [link](https://snyk.io/blog/is-localstorage-safe-to-use/?fbclid=IwAR150WFR4CeUzxOzW51sKXs813670rpwPG2pCjxvtRCxemC-8IHhjmRIFNY)
 - How properly use Svelte's lifecycle methods
 - How to use ES6 patterns such as spread operators
 - The true difference between map, filter and reduce
